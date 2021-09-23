@@ -1,0 +1,31 @@
+.tabledata{
+    margin: 10px;
+    padding: 10px;    
+    text-align: center;
+    font-size: 25px;
+   color:  greenyellow;
+}
+h3{
+    text-align: center;
+    padding: 10px;
+    background-color: gray
+}
+.tabledata{
+    text-align: center;
+   
+}
+.tabledata td{
+    padding: 5px;
+    background-color:goldenrod;
+    color: maroon;
+    font-size: 20px;
+    padding-right: 30px;
+    margin: 10px;
+   
+}
+.tableHeader{
+    margin: auto;
+    background-color: gray;
+    color: white;
+
+}
